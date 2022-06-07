@@ -9,6 +9,8 @@ This project consists in instantiating, configuring and coding a 2 parts posting
 
 ### :bulb: How to
 
+_:warning: Remember this repo has to be coupled with its sibling "THP_W19D2_React"_
+
 1. Clone the current :octocat: repository to your local :computer: using something as simple as `git clone .`
 2. Move to the just-brought-in directory
 3. First make sure to install all dependencies / libs via:
