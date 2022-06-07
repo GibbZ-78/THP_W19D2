@@ -1,6 +1,6 @@
 # RAILSFULBLOG
 
-## Trying to have fun mixing React() with Rails()... Coding a simple postings application
+## Trying to have fun mixing React(:see_no_evil:) with Rails(:speak_no_evil:)... Coding a simple postings application
 
 ### :scroll: Content
 
